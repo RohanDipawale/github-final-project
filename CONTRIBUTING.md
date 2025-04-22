@@ -1,1 +1,2 @@
 All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
+The file outlines the preferred workflow for submitting changes, encourages respectful collaboration, and provides clarity on how contributors can get involved. It also emphasizes the importance of writing clear commit messages and following the coding standards of the project. By including this file, the repository becomes more open, inclusive, and easier for developers to engage with effectively.
